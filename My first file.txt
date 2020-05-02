@@ -1,1 +1,1 @@
-My first day learing in Git.
+completed first day in git.
